@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>19/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Tendência pelo imediatismo e pela impulsividade.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>20/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Apego e dificuldade em lidar com mudanças.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>21/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Agilidade mental e efervescência de ideias.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Instinto para agir com as emoções.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Irradia brilho natural. O centro das atenções.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Consegue fazer as mudanças necessárias. Visão crítica e opinativa.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Forte conexão com a racionalidade.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Um oceano profundo e inexplorado. Força transformadora</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Costuma ser viajante, sua casa é o mundo inteiro. Viaja também em sua própria mente. </descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Maduro e bem humorado, mas também pode ser frio nas relações e um tanto pessimista.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Costuma ter a amizade como cartão de visita e ter uma conexão intensa com a liberdade.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Compassivo e inspirador. Tem uma forte conexão com a espiritualidade, mas pode se iludir com facilidade.</descricao>
+    </signo>
+
+</signos>
