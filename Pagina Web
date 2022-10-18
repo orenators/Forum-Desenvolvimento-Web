@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Signos</title>
+</head>
+<body>
+  <div>
+    <h2>Qual seu signo?</h1>
+  </div>
+  <form action="/signos.xml">
+    <label for="nome">Nome:</label><br>
+    <input type="text" name="nome" placeholder="Digite seu nome aqui"><br>
+    <label for="datanascimento">Data de nascimento:</label><br>
+    <input type="date" name="datanascimento" placeholder="Data de nascimento"><br>
+    <input type="submit" value="Pesquisar">
+  </form>
+</body>
+</html>
